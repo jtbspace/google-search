@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/google-search/static/js/main.a00e54e3.chunk.js",
-    "main.js.map": "/google-search/static/js/main.a00e54e3.chunk.js.map",
+    "main.js": "/google-search/static/js/main.be0419f7.chunk.js",
+    "main.js.map": "/google-search/static/js/main.be0419f7.chunk.js.map",
     "runtime-main.js": "/google-search/static/js/runtime-main.9d4cf16e.js",
     "runtime-main.js.map": "/google-search/static/js/runtime-main.9d4cf16e.js.map",
     "static/js/2.86fb1db9.chunk.js": "/google-search/static/js/2.86fb1db9.chunk.js",
     "static/js/2.86fb1db9.chunk.js.map": "/google-search/static/js/2.86fb1db9.chunk.js.map",
     "index.html": "/google-search/index.html",
-    "precache-manifest.da072c1a6f2d64bf20d1746e4400e921.js": "/google-search/precache-manifest.da072c1a6f2d64bf20d1746e4400e921.js",
+    "precache-manifest.1b1e46f98cbaf62e646b318f59cf16af.js": "/google-search/precache-manifest.1b1e46f98cbaf62e646b318f59cf16af.js",
     "service-worker.js": "/google-search/service-worker.js",
     "static/js/2.86fb1db9.chunk.js.LICENSE.txt": "/google-search/static/js/2.86fb1db9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9d4cf16e.js",
     "static/js/2.86fb1db9.chunk.js",
-    "static/js/main.a00e54e3.chunk.js"
+    "static/js/main.be0419f7.chunk.js"
   ]
 }
