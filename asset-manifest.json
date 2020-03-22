@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/jtbspace/google-search.git/static/js/main.a00e54e3.chunk.js",
-    "main.js.map": "/jtbspace/google-search.git/static/js/main.a00e54e3.chunk.js.map",
-    "runtime-main.js": "/jtbspace/google-search.git/static/js/runtime-main.c2efa861.js",
-    "runtime-main.js.map": "/jtbspace/google-search.git/static/js/runtime-main.c2efa861.js.map",
-    "static/js/2.86fb1db9.chunk.js": "/jtbspace/google-search.git/static/js/2.86fb1db9.chunk.js",
-    "static/js/2.86fb1db9.chunk.js.map": "/jtbspace/google-search.git/static/js/2.86fb1db9.chunk.js.map",
-    "index.html": "/jtbspace/google-search.git/index.html",
-    "precache-manifest.db6c5da8a5497e2b02c3ef40091092cf.js": "/jtbspace/google-search.git/precache-manifest.db6c5da8a5497e2b02c3ef40091092cf.js",
-    "service-worker.js": "/jtbspace/google-search.git/service-worker.js",
-    "static/js/2.86fb1db9.chunk.js.LICENSE.txt": "/jtbspace/google-search.git/static/js/2.86fb1db9.chunk.js.LICENSE.txt"
+    "main.js": "/google-search/static/js/main.a00e54e3.chunk.js",
+    "main.js.map": "/google-search/static/js/main.a00e54e3.chunk.js.map",
+    "runtime-main.js": "/google-search/static/js/runtime-main.9d4cf16e.js",
+    "runtime-main.js.map": "/google-search/static/js/runtime-main.9d4cf16e.js.map",
+    "static/js/2.86fb1db9.chunk.js": "/google-search/static/js/2.86fb1db9.chunk.js",
+    "static/js/2.86fb1db9.chunk.js.map": "/google-search/static/js/2.86fb1db9.chunk.js.map",
+    "index.html": "/google-search/index.html",
+    "precache-manifest.da072c1a6f2d64bf20d1746e4400e921.js": "/google-search/precache-manifest.da072c1a6f2d64bf20d1746e4400e921.js",
+    "service-worker.js": "/google-search/service-worker.js",
+    "static/js/2.86fb1db9.chunk.js.LICENSE.txt": "/google-search/static/js/2.86fb1db9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2efa861.js",
+    "static/js/runtime-main.9d4cf16e.js",
     "static/js/2.86fb1db9.chunk.js",
     "static/js/main.a00e54e3.chunk.js"
   ]
