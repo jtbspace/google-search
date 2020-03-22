@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/jtbspace/google_search.git/static/js/main.a00e54e3.chunk.js",
+    "main.js.map": "/jtbspace/google_search.git/static/js/main.a00e54e3.chunk.js.map",
+    "runtime-main.js": "/jtbspace/google_search.git/static/js/runtime-main.79507ca9.js",
+    "runtime-main.js.map": "/jtbspace/google_search.git/static/js/runtime-main.79507ca9.js.map",
+    "static/js/2.86fb1db9.chunk.js": "/jtbspace/google_search.git/static/js/2.86fb1db9.chunk.js",
+    "static/js/2.86fb1db9.chunk.js.map": "/jtbspace/google_search.git/static/js/2.86fb1db9.chunk.js.map",
+    "index.html": "/jtbspace/google_search.git/index.html",
+    "precache-manifest.d8622cb6a3a3d2d7336fe868d3b04c07.js": "/jtbspace/google_search.git/precache-manifest.d8622cb6a3a3d2d7336fe868d3b04c07.js",
+    "service-worker.js": "/jtbspace/google_search.git/service-worker.js",
+    "static/js/2.86fb1db9.chunk.js.LICENSE.txt": "/jtbspace/google_search.git/static/js/2.86fb1db9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79507ca9.js",
+    "static/js/2.86fb1db9.chunk.js",
+    "static/js/main.a00e54e3.chunk.js"
+  ]
+}
